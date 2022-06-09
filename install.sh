@@ -8,3 +8,7 @@
 
 # Install apt Packages
 apt install git vim neovim dmenu rofi arandr nitrogen i3 compton ranger
+snap install discord spotify
+snap install code --classic
+# Polybar
+sudo apt install polybar
