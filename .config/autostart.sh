@@ -1,6 +1,4 @@
 #!/usr/bin/env sh
-
-#####################################3
 # Keymaps 
 
 # Make CAPS lock an extra escape key
