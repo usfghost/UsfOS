@@ -1,13 +1,11 @@
 # UsfOS
 
 ## Installation
-### Clone Repo
 ```sh
+# Clone repository
 git clone git@github.com:usfghost/UsfOS.git
 cd UsfOS/
-```
-### Make executable
-```sh
+# Make executable
 chmod +x install.sh
 ./install.sh
 ```
